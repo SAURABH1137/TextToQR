@@ -4,6 +4,7 @@ PROJECT TECHNOLOGIES (LANGUAGES):
 1. REACTJS
 2. MUI
 3. MUI SVG
+4. url(https://texttoqr-39154.web.app/)
 
 The web application will be a simple and user-friendly tool that allows users to convert text into QR codes. It will be built using the ReactJS framework and Material UI library for the UI design. The application will consist of a single page that displays a text box where users can enter the text they want to convert into a QR code.
 
