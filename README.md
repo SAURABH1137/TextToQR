@@ -1,5 +1,11 @@
 # TextToQR
 
+PROJECT TECHNOLOGIES (LANGUAGES) USE
+
+REACTJS
+MUI
+MUI SVG
+
 The web application will be a simple and user-friendly tool that allows users to convert text into QR codes. It will be built using the ReactJS framework and Material UI library for the UI design. The application will consist of a single page that displays a text box where users can enter the text they want to convert into a QR code.
 
 Once the user enters the text and clicks on the 'Generate QR Code' button, the application will use a QR code generator library to create the QR code image. The image will be displayed on the same page, along with a download button that allows the user to save the QR code as a PNG or SVG file.
